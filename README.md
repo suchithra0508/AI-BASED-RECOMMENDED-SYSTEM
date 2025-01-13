@@ -14,3 +14,6 @@
 
 OUTPUT:
 
+![S5](https://github.com/user-attachments/assets/ede09e9b-9d72-49a1-a133-e7dbd287af3f)
+
+
