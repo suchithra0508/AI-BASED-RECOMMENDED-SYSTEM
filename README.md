@@ -14,4 +14,3 @@
 
 OUTPUT:
 
-![S4](https://github.com/user-attachments/assets/a97c208b-77eb-49cc-bbaa-40b0ca1be0d7)
